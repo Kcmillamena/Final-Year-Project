@@ -1,2 +1,4 @@
 # Final-Year-Project
 Examining the Influence of Individual Game Preferences on University Students’ Behaviours in Hong Kong
+
+This quantitative study is designed to prove or disprove the hypothesis that playing violent video games would have an effect on players’ aggressive behaviour. The study attempts to explore Hong Kong university students’ preferences towards various video game genres and identify players’ reasons and motivations to play video games. This study also aims to understand how video game genre preferences impact university students’ behaviours in Hong Kong. Various statistical analysis techniques are adopted in the study, e.g., cluster analysis, factor analysis, and multidimensional scaling (MDS). Received an A grade (in accordance with UG8 of the Regulations for First Degree Curricula).
